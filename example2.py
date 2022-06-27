@@ -1,6 +1,3 @@
-from socket import SIO_RCVALL
-
-
 py_string  = "This is the first line"
 py_string_len  = len(py_string)
 print(py_string[0:4])
@@ -15,3 +12,5 @@ print(message1)
 
 #formated string stars with f
 msg1= f"hello {first} [{last}]. How are you? "
+print(msg1)
+print(msg1.upper())
