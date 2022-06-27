@@ -1,4 +1,8 @@
 '''
+Operator
+function
+methods
+
 Difference between method and function
 
 Methods are associated with the objects of the class they belong to. Functions are not associated with any object.
@@ -14,4 +18,6 @@ i.e. method is defined within a class and hence they are dependent on that class
 String1 = "This is my first line of code"
 print(len(String1)) This is Function
 print(String1.upper()) This is Method
+
+"first" in String1
 '''
